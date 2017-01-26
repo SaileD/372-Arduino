@@ -1,6 +1,6 @@
-Author: <br>
-NetID: <br>
-Date: <br>
+Author: Saile Daimwood<br> 
+NetID: sdaimwood<br>
+Date: 1/26/2017<br>
 Project Name: lab0-part2
 
 # Description
